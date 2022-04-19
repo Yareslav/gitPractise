@@ -6,4 +6,4 @@ this is a change on branch hello
 this is second change on branch hello
 this is new2 branch
 this is new branch modified
-changes on master branch
+this is true
